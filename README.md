@@ -11,6 +11,10 @@ To provide education through various courses as well as hub to get many opportun
 1.Open index.html file to access the website.
 2. Open your browser and navigate to `http://127.0.0.1:5500/Index.html`.
 
+## Tecnologies Used
+Frontend-HTML,CSS,Java script
+Backend - Express.js
+
 
 ## Credits
 
