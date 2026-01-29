@@ -1,28 +1,55 @@
-# Project Title- Google Solution Challenge 2024
-
-Edulink Hub: Navigating Education and career together
-
-# Project Description
-
-To provide education through various courses as well as hub to get many opportunities in cheaper rate targeting mostly girls and people from rural areas.
-
-## Usage
-
-1.Open index.html file to access the website.  
-2. Open your browser and navigate to `http://127.0.0.1:5500/Index.html`.
-
-## Tecnologies Used
-- Frontend-HTML,CSS,Java script
-- Backend - Express.js
+# Google Solution Challenge 2024  
+## EduLink Hub: Navigating Education and Career Together
 
 
-## Credits
+## 📌 Project Overview
 
-- Sumayya Parvin Mirza Azeem Baig - Team Lead
-- Vishakha Bhagwan Damodhar - Team Member
-- Syeda Ramsga Anjum - Team Member
-- Nagma Begum Lala Shah - Team Memver
+**EduLink Hub** is a web-based platform designed to bridge the gap between education and career opportunities. The platform provides access to various educational courses and a centralized hub for discovering career and learning opportunities at an affordable cost.
 
-## Contact
+The project primarily focuses on empowering **girls and individuals from rural areas** by making quality education and career guidance more accessible and inclusive. This solution was developed as part of the **Google Solution Challenge 2024**, aiming to create social impact through technology.
 
-For questions or feedback, please contact edulinkhub01@gmail.com.
+---
+
+## 🚀 Features
+
+- Access to diverse educational courses  
+- Centralized hub for career and learning opportunities  
+- Affordable and inclusive platform  
+- User-friendly web interface  
+- Focus on underrepresented communities  
+
+---
+
+## 🛠️ Technologies Used
+
+### Frontend
+- HTML  
+- CSS  
+- JavaScript  
+
+### Backend
+- Express.js  
+
+---
+
+## 💻 Usage
+
+1. Open the `index.html` file to access the website.  
+2. Open your browser and navigate to:  
+---
+
+## 👥 Team & Credits
+
+- **Sumayya Parvin Mirza Azeem Baig** – Team Lead  
+- **Vishakha Bhagwan Damodhar** – Team Member  
+- **Syeda Ramsga Anjum** – Team Member  
+- **Nagma Begum Lala Shah** – Team Member  
+
+---
+
+## 📬 Contact
+
+For questions, feedback, or collaboration inquiries, please contact:  
+📧 **edulinkhub01@gmail.com**
+
+
